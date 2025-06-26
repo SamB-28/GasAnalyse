@@ -78,7 +78,6 @@ In de Gasmasker_Output map bevindt zich het binaire gasmasker in NIfTI-formaat, 
 - Anders aankleuren van niet toegewezen gasregio's
 - Niet toegewezen gasregio's aan organen toekennen als er overlap is met slechts één orgaansegmentatie
 - In- en uitschakelen van orgaansegmenten in 3D-visualisatie
-- Totaalvolume organen bepalen 
 - Totaalvolume per orgaan bepalen via `statistics`-functie van TotalSegmentator  
 - Restvolume (feces/vloeistof) schatten door gasvolume af te trekken van orgaanvolume
 
